@@ -1,0 +1,8 @@
+.kitchen
+vendor
+.idea
+# VIM editor swap files
+.*.sw?
+# Backups
+*~
+*.bak
